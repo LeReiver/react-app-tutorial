@@ -1,0 +1,18 @@
+.Person {
+    width: 300px;
+    margin: 20px auto 50px auto;
+    box-shadow: 4px 6px 2px rgb(38, 85, 46);
+    padding: 20px;
+    border: 4px solid #3e80d6;
+    border-radius: 8px;
+}
+button {
+    height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid #e32;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgba(168, 173, 179, 0.274);
+}
